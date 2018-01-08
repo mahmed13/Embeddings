@@ -1,2 +1,2 @@
 # Embeddings
-SSVD and Kernel Smoothing
+Implementation of Stochastic Singluar Value Decompostion(SSVD) and Kernel Smoothing
